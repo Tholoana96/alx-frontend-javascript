@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "nodejs": "^0.0.0"
+  },
+  "name": "0x00-es6_basic",
+  "version": "1.0.0",
+  "description": "- What ES6 is\r - New features introduced in ES6\r - The difference between a constant and a variable\r - Block-scoped variables\r - Arrow functions and function parameters default to them\r - Rest and spread function parameters\r - String templating in ES6\r - Object creation and their properties in ES6\r - Iterators and for-of loops",
+  "main": "index.js",
+  "devDependencies": {
+    "@babel/core": "^7.24.9",
+    "@babel/preset-env": "^7.24.8",
+    "babel-jest": "^29.7.0",
+    "eslint": "^9.7.0",
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
